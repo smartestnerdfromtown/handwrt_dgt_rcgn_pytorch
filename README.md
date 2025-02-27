@@ -32,4 +32,5 @@ The project uses the **MNIST dataset**, a collection of 28x28 grayscale images o
 
 This implementation follows the tutorial from **NeuralNine**:
 [NeuralNine - PyTorch Project: Handwritten Digit Recognition](https://www.youtube.com/watch?v=vBlO87ZAiiw).
+- Github: https://github.com/NeuralNine
 
