@@ -28,9 +28,10 @@ The project uses the **MNIST dataset**, a collection of 28x28 grayscale images o
 1. Allow user to input its own image. 
 
 
-## Acknowledgments
+## Resources
+The following resources were used to understand and implement the handwritten digit recognition project:
 
-This implementation follows the tutorial from **NeuralNine**:
-[NeuralNine - PyTorch Project: Handwritten Digit Recognition](https://www.youtube.com/watch?v=vBlO87ZAiiw).
-- Github: https://github.com/NeuralNine
+1. [NeuralNine - PyTorch Project: Handwritten Digit Recognition](https://www.youtube.com/watch?v=vBlO87ZAiiw)
+2. [GitHub - billy-enrizky/Pytorch-Handwritten-Digit-Recognition](https://github.com/billy-enrizky/Pytorch-Handwritten-Digit-Recognition)
+3. [Matplotlib Documentation - Image Tutorial](https://matplotlib.org/stable/tutorials/images.html)
 
