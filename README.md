@@ -14,7 +14,7 @@ This project implements a Handwritten Digit Recognition system using PyTorch and
 Ensure you have Python installed, then install the necessary dependencies:
 
 ```sh
-pip install torch torchvision matplotlib pillow
+pip install torch torchvision matplotlib pillow seaborn scikit-learn
 ```
 
 ## Usage
@@ -43,13 +43,14 @@ pip install torch torchvision matplotlib pillow
 
 ## Resources
 
-The following resources were used to understand and implement the handwritten digit recognition project:
-
 1. [NeuralNine - PyTorch Project: Handwritten Digit Recognition](https://www.youtube.com/watch?v=vBlO87ZAiiw)
-2. [GitHub - Pytorch Handwritten Digit Recognition](https://github.com/billy-enrizky/Pytorch-Handwritten-Digit-Recognition)
-3. [Matplotlib Image Tutorial](https://matplotlib.org/stable/tutorials/images.html)
-4. [Real Python - Tkinter GUI Tutorial](https://realpython.com/python-gui-tkinter/#building-your-first-python-gui-application-with-tkinter)
+2. [GitHub Repository: Pytorch-Handwritten-Digit-Recognition](https://github.com/billy-enrizky/Pytorch-Handwritten-Digit-Recognition)
+3. [Matplotlib - Image Tutorial](https://matplotlib.org/stable/tutorials/images.html)
+4. [Real Python - Building Your First Python GUI with Tkinter](https://realpython.com/python-gui-tkinter/#building-your-first-python-gui-application-with-tkinter)
 5. [Kaggle - Handwritten Digit Recognition with GUI](https://www.kaggle.com/code/ahmedelmaamounamin/handwritten-digit-recognition-with-gui/code#Handwritten-Digit-Recognition-with-GUI)
+6. [TutorialsPoint - Matplotlib Object-Oriented Interface](https://www.tutorialspoint.com/matplotlib/matplotlib_object_oriented_interface.htm)
+7. [Seaborn - Heatmap Documentation](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
+
 
 ---
 ## License
